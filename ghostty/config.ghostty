@@ -1,0 +1,33 @@
+# --- theme ---
+theme = Catppuccin Mocha
+
+# --- font ---
+font-family = MonaspiceNe Nerd Font Mono
+font-size = 12
+# Monaspace texture healing + ligatures
+font-feature = calt
+font-feature = liga
+
+# --- st-like: no chrome ---
+window-decoration = none
+gtk-titlebar = false
+gtk-tabs-location = hidden
+gtk-toolbar-style = flat
+window-padding-x = 2
+window-padding-y = 2
+window-padding-balance = true
+window-padding-color = background
+window-theme = ghostty
+resize-overlay = never
+confirm-close-surface = false
+mouse-hide-while-typing = true
+app-notifications = no-clipboard-copy,no-config-reload
+
+# --- cursor: steady block (st default) ---
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+
+# --- behaviour ---
+copy-on-select = clipboard
+scrollback-limit = 10000000

@@ -1,0 +1,12 @@
+# GNOME Shell extensions (one UUID per line, installed from extensions.gnome.org)
+# Lines starting with "git:" are cloned from GitHub instead.
+user-theme@gnome-shell-extensions.gcampax.github.com
+dash-to-dock@micxgx.gmail.com
+compiz-alike-magic-lamp-effect@hermes83.github.com
+hide-dash-overview@PendaGTP
+moveclock@kuvaus.org
+rounded-windows@marcosgt.github.io
+simple-tiling@domoel
+space-bar@luchrioh
+wack-lockscreen-clock@rinzler69-wastaken.github.com
+git:https://github.com/jpdagostin0/just-another-search-bar just-another-search-bar@jpdagostin0
